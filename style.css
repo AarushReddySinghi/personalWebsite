@@ -79,3 +79,17 @@ p {
 .links:hover{
 font-size:30px
 }
+h1{
+text-align: center;
+}
+a{
+    text-decoration: none;
+    
+}
+.article:hover{
+    color:aqua;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
